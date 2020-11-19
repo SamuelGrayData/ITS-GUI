@@ -13,5 +13,5 @@ public class createProfile {
     private JTextField textField7;
     private JTextField textField8;
     private JTextField textField9;
-    private JTextField textField10;
+    private JTextField textField10;;
 }
